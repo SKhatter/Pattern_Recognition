@@ -1,0 +1,5 @@
+This project the use of K-Nearest Neighbors and Support Vector Machines (with all four kernels- Linear, Polynomial, Radial Basis Function, Sigmoid) and cross-validation scores to understand the patterns of MNIST and Covertype Dataset.
+
+This project was submitted by-
+Sumedha Khatter
+Ronit Shaw
