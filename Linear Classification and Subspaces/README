@@ -1,4 +1,4 @@
-This project involves the writing of PCA, LDA and a Naive Bayes Classifier.  PCA is used for data compression and LDA as a linear classifier. Functions that do Eigen decomposition, basic vector and marix functions and the SVD are used but any functions that implement PCA, LDA, or linear classification are not used.
+This project involves the writing of PCA, LDA and a Naive Bayes Classifier.  PCA is used for data compression and LDA as a linear classifier. Functions that do Eigen decomposition, basic vector and matrix functions and the SVD are used but any functions that implement PCA, LDA, or linear classification are not used.
 
 Project Contributors
 Sumedha Khatter 
