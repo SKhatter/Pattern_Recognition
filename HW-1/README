@@ -1,0 +1,16 @@
+Homework 1: Linear Classification and Subspaces
+Project Contributors
+Sumedha Khatter A53094878
+Ronit Shaw A53220859
+
+File Names-
+1. NB_MNIST.ipynb - Naive Bayes on MNIST
+2. NB_Wine.ipynb - Naive Bayes on Wine
+3. PCA_LDA_NB.ipynb - PCA followed by LDA followed by Naive Bayes
+4. PCA_LDA_NB_Wine.ipynb - PCA followed by LDA followed by Wine
+5. PCA_NB_Wine.ipynb- PCA folllowed by Naive Bayes on Wine
+6. PCA_NB_MNIST.ipynb - PCA followed by Naive Bayes on MNIST
+7. train.csv - MNIST train
+8. test.csv - MNIST testset
+9. wine.data.txt - Wine Dataset
+
